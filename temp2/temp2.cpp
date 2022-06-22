@@ -1,5 +1,6 @@
 // temp2.cpp: определяет точку входа для консольного приложения.
 //  no git
+//  yes git
 
 #include "stdafx.h"
 #include <stdlib.h>
